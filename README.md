@@ -1,6 +1,14 @@
 # cis-fraud-detection
 This repo is here reffering to the kaggle competition https://www.kaggle.com/c/ieee-fraud-detection
 
+The Team
+--------
+
+The submission was made by:
+
+- Devrim Çavuşoğlu
+- Onur Odabaşı
+
 Evaluation Metric
 -----------------
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
